@@ -87,7 +87,7 @@ GROUP BY c.mail
 HAVING total_pago > 0;
 📸 Modelo Entidade-Relacionamento (ER)
 
-Adicione aqui uma imagem do seu diagrama ER gerado no MySQL Workbench ou ferramenta similar.
+
 
 📈 Possíveis Melhorias Futuras
 Desenvolvimento de API REST para consumir esse banco.
